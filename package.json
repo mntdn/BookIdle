@@ -1,0 +1,14 @@
+{
+    "name": "book-idle",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "typescript": "^5.2.2"
+    },
+    "scripts": {
+      "build": "tsc",
+      "dev": "rollup -c -w",
+      "start": "sirv public --no-clear"
+    }
+  }
+  

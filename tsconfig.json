@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "amd",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"sourceMap": true,
+		"lib": ["es5", "es6", "dom"],
+		"rootDir": "./src/",
+		"outFile": "./build/build.js"
+	}
+}
