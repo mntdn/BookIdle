@@ -6,9 +6,7 @@
       "typescript": "^5.2.2"
     },
     "scripts": {
-      "build": "tsc",
-      "dev": "rollup -c -w",
-      "start": "sirv public --no-clear"
+      "build": "tsc"
     }
   }
   
